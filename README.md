@@ -1,4 +1,12 @@
 # Try-Apps
+
+Example Command
+➤ git init ./
+➤ git add Readme.md
+➤ git commit -m "Initial Commit"
+➤ git remote add github <project url>
+➤ git push github master
+
 first do this to initialize git (version control).
 
 git init
